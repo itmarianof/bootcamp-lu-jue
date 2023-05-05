@@ -48,3 +48,12 @@ git add index.html
 git add README.md css/estilos.css
 git add . # Agrego todos los archivos que están (UNTRACKED, MODIFIED)
 ```
+
+## La historia de commits (La caja de fotos)
+
+```sh
+git log # La historia de commit detallada
+git log --oneline # Historia resumida
+```
+
+Nota: Si la consola queda bloqueada y no puedo salir del listado tengo apretar la tecla q (quit)
